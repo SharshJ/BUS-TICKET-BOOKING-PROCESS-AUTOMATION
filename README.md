@@ -76,7 +76,7 @@ Bus Ticket Booking Automation is an RPA (Robotic Process Automation) project imp
 ## Screenshots
 
 1. **Excel Sheet**:
-   - ![Homepage](screenshots/Excel.png)
+   - ![Homepage](C:\Users\shrih\OneDrive\Pictures\Screenshots/Excel.png)
 2. **Google Form**:
    - Screenshot of the form being filled by the bot.
 3. **Submit Another Response**:
